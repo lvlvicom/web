@@ -1,0 +1,5 @@
+/* reset style 重置*/
+body,div,ul,li,p,span,input,a,form,h1,h2,h3{margin: 0;padding: 0;}
+a{text-decoration: none;}
+li{list-style: none;}
+img{border:0;};
